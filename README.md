@@ -20,8 +20,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="64
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🏦 I have graduated from Aerospace Engineering from the University of Science and Technlogy (UST) at [Zewail City](https://www.zewailcity.edu.eg/)
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📖 I am always reading, sometimes books, sometimes blogs.
-- 📖 I am currently reading **Deep Learning** by Ian Goodfellow
+- 📖 I am always reading, sometimes books, sometimes blogsor scientific papers. I am currently reading **Deep Learning** by Ian Goodfellow
 - 💬 Talk to me about Artifical Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, Python
 - 🧑‍💻 Tech I work on :
 
